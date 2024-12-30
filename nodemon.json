@@ -1,0 +1,4 @@
+{
+  "exec": "bun run src/main.ts",
+  "watch": ["/src", ".env"]
+}
